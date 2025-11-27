@@ -55,3 +55,14 @@ button:hover {
   font-size: 0.9em;
   color: #aaa;
 }
+
+/* Estilos para a pontuação de estabilidade */
+.stability-stable {
+  color: #2ecc71; /* Verde */
+  font-weight: bold;
+}
+
+.stability-unstable {
+  color: #e74c3c; /* Vermelho */
+  font-weight: bold;
+}
