@@ -1,14 +1,10 @@
-## 1. Status do Projeto e Funcionalidades Implementadas
-
-Essa versão do projeto foca apenas na exibição de dados de criptomoedas em tempo real e na nova funcionalidade de cálculo de estabilidade. As funcionalidades de Autenticação, Alertas e persistência de dados foram deixadas de lado pois não foi cumprido o propósito do banco de dados.
-
-## 2. Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 *   **Frontend:** HTML5, CSS3, Javascript
 *   **Backend:** Node.js, Express.js
 *   **API de Dados:** CoinMarketCap Pro API (requer chave)
 
-## 3. Configuração e Execução
+##  Configuração e Execução
 
 ### Pré-requisitos
 
